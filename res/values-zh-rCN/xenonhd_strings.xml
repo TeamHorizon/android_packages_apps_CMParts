@@ -27,12 +27,18 @@
   <string name="battery_bar_style_regular">标准</string>
   <string name="battery_bar_style_center_mirrored">中心镜像</string>
   <string name="battery_bar_style_reversed">反转</string>
+  <string name="battery_bar_use_gradient_color">使用渐变颜色</string>
+  <string name="battery_bar_gradient_color_summary">使用渐变颜色显示电池电量</string>
+  <string name="battery_bar_high_color">电量充足时的颜色</string>
+  <string name="battery_bar_low_color">电量不足时的颜色</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">实心图标</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">亮度滑块</string>
   <string name="qs_brightness_slider_enabled">已启用</string>
   <string name="qs_brightness_slider_disabled">已禁用</string>
   <string name="brightness_icon_title">亮度图标 </string>
+  <string name="brightness_icon_summary">在亮度滑块左侧显示亮度图标用于调节自动亮度</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">颜色选择</string>
   <string name="press_color_to_apply">按选颜色以应用</string>
@@ -75,12 +81,18 @@
   <string name="status_bar_date_style_normal">正常</string>
   <string name="status_bar_date_style_lowercase">小写字母</string>
   <string name="status_bar_date_style_uppercase">大写字母</string>
+  <string name="status_bar_date_format_custom">自定义java格式</string>
   <string name="status_bar_date_string_edittext_title">日期格式 例如: MM/dd/yy</string>
   <string name="status_bar_date_string_edittext_summary">输入字符</string>
   <string name="menu_save">保存</string>
   <string name="menu_cancel">不保存</string>
   <!-- Navbar Animation -->
   <string name="pixel_navbar_anim_title">导航栏动画</string>
+  <string name="pixel_navbar_anim_summary">重新启用导航或重新启动以应用。主题可能会覆盖此设置</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">长按电源键以启动手电筒</string>
+  <string name="torch_long_press_power_gesture_desc">息屏状态下长按电源键以启动手电筒</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">单手模式</string>
+  <string name="one_handed_mode_summary">允许在导航栏滑动以启用单手模式</string>
 </resources>

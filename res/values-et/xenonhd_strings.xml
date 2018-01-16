@@ -21,18 +21,18 @@
   <string name="battery_bar_charging_color">Akuriba laadimise värv</string>
   <string name="battery_bar_battery_low_color">Akuriba tühja aku värv</string>
   <string name="battery_bar_cat">Akuriba stiil</string>
-  <string name="battery_bar_style_title">Akuriba joonendamine</string>
+  <string name="battery_bar_style_title">Akuriba joondamine</string>
   <string name="battery_bar_thickness_title">Akuriba paksus</string>
   <string name="battery_bar_animate_title">Laadimise animatsioon</string>
   <string name="battery_bar_style_regular">Tavaline</string>
   <string name="battery_bar_style_center_mirrored">Keskpeegeldatud</string>
-  <string name="battery_bar_style_reversed">Ümber pööratud</string>
+  <string name="battery_bar_style_reversed">Vastupidi</string>
   <string name="battery_bar_use_gradient_color">Kasuta gradientset värvi</string>
-  <string name="battery_bar_gradient_color_summary">Kasutada gradientset värvi skaalana akul</string>
-  <string name="battery_bar_high_color">Kõrge taseme värv</string>
-  <string name="battery_bar_low_color">Madala taseme värv</string>
+  <string name="battery_bar_gradient_color_summary">Kasutada gradientset värvi akutaseme skaalana</string>
+  <string name="battery_bar_high_color">Kõrge akutaseme värv</string>
+  <string name="battery_bar_low_color">Madala akutaseme värv</string>
   <!-- Battery icon -->
-  <string name="status_bar_battery_style_solid">Tahke</string>
+  <string name="status_bar_battery_style_solid">Ühtlane</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Ereduse liugur</string>
   <string name="qs_brightness_slider_enabled">Lubatud</string>
@@ -49,7 +49,7 @@
   <string name="traffic_category">Võrguliikluse indikaatorid</string>
   <string name="network_traffic_title">Võrguliiklus</string>
   <string name="show_network_traffic_state">Olekuriba võrguliikluse monitor</string>
-  <string name="show_network_traffic_unit">Kuvaühik</string>
+  <string name="show_network_traffic_unit">Kuva ühik</string>
   <string name="show_network_traffic_frequency">Uuenduste sagedus</string>
   <string name="show_network_traffic_disable">Keelatud</string>
   <string name="show_network_traffic_up">Väljaminev</string>
@@ -90,7 +90,7 @@
   <string name="pixel_navbar_anim_title">Navigeerimisriba animatsioon</string>
   <string name="pixel_navbar_anim_summary">Lubage navigeerimisriba uuesti või taaskäivitage et muudatusi rakendada. Teemad võivad selle sätte üle kirjutada</string>
   <!-- Torch -->
-  <string name="torch_long_press_power_gesture_title">Vajutage pikalt toitenupule et lubada taskulamp</string>
+  <string name="torch_long_press_power_gesture_title">Pikk vajutus toitenupule rakendab taskulambi</string>
   <string name="torch_long_press_power_gesture_desc">Aktiveeri taskulamp pikalt vajutades toitenupule, kui ekraan on välja lülitatud</string>
   <!-- One-handed mode -->
   <string name="one_handed_mode_title">Ühe käe režiim</string>
